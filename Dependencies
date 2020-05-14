@@ -1,0 +1,4 @@
+pip install cv2
+pip install pyinstaller
+pip install Pillow
+pip install pywin32
